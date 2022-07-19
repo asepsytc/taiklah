@@ -15,7 +15,7 @@
   "activationCommands": {
     "atom-workspace": "taiklah:toggle"
   },
-  "repository": "https://github.com/ayam-rendang/taiklah",
+  "repository": "https://github.com/asepsytc/taiklah",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
