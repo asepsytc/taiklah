@@ -1,0 +1,23 @@
+{
+  "name": "taiklah",
+  "main": "./atom/taiklah",
+  "theme": "ui",
+  "version": "1.10.0",
+  "description": "taiklah",
+  "keywords": [
+    "judi poker online",
+    "situs poker online",
+    "agen slot online pakai ovo",
+    "poker online via ovo 5rb",
+    "judi poker via ovo 5 rb",
+    "idn poker pakai ovo 5 ribu"
+  ],
+  "activationCommands": {
+    "atom-workspace": "taiklah:toggle"
+  },
+  "repository": "https://github.com/ayam-rendang/taiklah",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
